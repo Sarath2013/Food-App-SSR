@@ -4,7 +4,7 @@
 
 Application is deployed with below features.
   
-  1. Grid Card UI with two routes(Recipes overview and details), Responsive to all devices.
+  1. Grid Card UI with two routes(Recipes overview and details), Responsive to all devices - No external CSS frameworks.
   2. Own rate(star) component has been implemented.
   3. Accessibility and navigation through keyboard.
   4. Server side rendering.
